@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Neutral app icon: a generic handheld scoreboard remote (no third-party marks). -->
+  <rect width="512" height="512" rx="96" fill="#10161d"/>
+  <g id="remote">
+    <rect x="156" y="40" width="200" height="432" rx="52" fill="#d9dde2"/>
+    <rect x="170" y="56" width="172" height="140" rx="30" fill="#1b2026"/>
+    <rect x="184" y="76" width="144" height="100" rx="10" fill="#78ff78"/>
+    <rect x="198" y="94" width="58" height="26" rx="4" fill="#1a3d1a"/>
+    <rect x="270" y="94" width="44" height="26" rx="4" fill="#1a3d1a"/>
+    <rect x="198" y="134" width="40" height="22" rx="4" fill="#1a3d1a"/>
+    <rect x="252" y="134" width="62" height="22" rx="4" fill="#1a3d1a"/>
+    <g>
+      <rect x="184" y="216" width="30" height="26" rx="5" fill="#22427f"/>
+      <rect x="222" y="216" width="30" height="26" rx="5" fill="#22427f"/>
+      <rect x="260" y="216" width="30" height="26" rx="5" fill="#22427f"/>
+      <rect x="298" y="216" width="30" height="26" rx="5" fill="#e0262b"/>
+      <rect x="184" y="252" width="30" height="26" rx="5" fill="#22427f"/>
+      <rect x="222" y="252" width="30" height="26" rx="5" fill="#2f6fd6"/>
+      <rect x="260" y="252" width="30" height="26" rx="5" fill="#22427f"/>
+      <rect x="298" y="252" width="30" height="26" rx="5" fill="#2f6fd6"/>
+      <rect x="184" y="288" width="30" height="26" rx="5" fill="#e0262b"/>
+      <rect x="222" y="288" width="30" height="26" rx="5" fill="#22427f"/>
+      <rect x="260" y="288" width="30" height="26" rx="5" fill="#22427f"/>
+      <rect x="298" y="288" width="30" height="26" rx="5" fill="#1f9d43"/>
+      <rect x="184" y="324" width="30" height="26" rx="5" fill="#ffffff"/>
+      <rect x="222" y="324" width="30" height="26" rx="5" fill="#ffffff"/>
+      <rect x="260" y="324" width="30" height="26" rx="5" fill="#ffffff"/>
+      <rect x="298" y="324" width="30" height="26" rx="5" fill="#ffffff"/>
+      <rect x="184" y="360" width="30" height="26" rx="5" fill="#2f6fd6"/>
+      <rect x="222" y="360" width="30" height="26" rx="5" fill="#ffffff"/>
+      <rect x="260" y="360" width="30" height="26" rx="5" fill="#ffffff"/>
+      <rect x="298" y="360" width="30" height="26" rx="5" fill="#ffffff"/>
+      <rect x="184" y="396" width="30" height="26" rx="5" fill="#2f6fd6"/>
+      <rect x="222" y="396" width="30" height="26" rx="5" fill="#2f6fd6"/>
+      <rect x="260" y="396" width="30" height="26" rx="5" fill="#2f6fd6"/>
+      <rect x="298" y="396" width="30" height="26" rx="5" fill="#2f6fd6"/>
+    </g>
+  </g>
+</svg>
